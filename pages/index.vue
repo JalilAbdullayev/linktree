@@ -40,5 +40,6 @@ const links: Link[] = [
     <div class="flex flex-col items-center px-4">
       <CardLinks v-for="(link, index) in links" :key="index" :link="link" class="mt-6"/>
     </div>
+    <Share/>
   </div>
 </template>

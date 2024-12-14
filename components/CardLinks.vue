@@ -15,7 +15,3 @@ defineProps({
     </p>
   </a>
 </template>
-
-<style scoped>
-
-</style>
